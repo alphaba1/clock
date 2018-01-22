@@ -1,0 +1,10 @@
+body{
+	font-family: 'lato';
+	margin-top: 300px;
+	text-align: center;
+
+}
+#clock{
+	font-weight: 300px;
+	font-size: 100px;
+}
